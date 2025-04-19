@@ -17,6 +17,7 @@ $A$ and $B$ are two graphs that have the same number of nodes, and are completel
 If they have the same number of nodes AND are completely connected, this must mean that graph A and graph B both have the same amount of verticies, and the same amount of edges.
 
 $\text{number of verticies in graph A} = \text{number of verticies in graph B}$
+
 $\text{number of edges in graph A} = \text{number of edges in graph B}$
 
 Because of these two properties we can state that there is a bijection of:
