@@ -29,4 +29,9 @@ So for every vertex in A, there exists an equivalent distinct vertex in B, and f
 
 The above bijection and property description fullfills the formal definition of isomorphism given above, and therefore graph A and B are isomorphic.
 
+- Referenced https://www.geeksforgeeks.org/graph-isomorphisms-connectivity/
+
+- Referenced https://en.wikipedia.org/wiki/Graph_isomorphism
+
+"I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice."
 
