@@ -24,6 +24,8 @@ Because of these two properties we can state that there is a bijection of:
 
 $f: V_1 \ \rightarrow \ V_2$
 
+This is because any two finite sets with the same cardinality admit a bijection. Both sets can be enumerated and their items can be matched in order.
+
 Meaning that there are no duplicate verticies, and no leftover verticies. Since the graphs are both described as completely connected, we can also state the same for edges.
 
 So for every vertex in A, there exists an equivalent distinct vertex in B, and for every edge in A there exists an equivalent distinct edge in B. Both statements also hold true in reverse, for every vertex and edge in B, there exists the same in A.
